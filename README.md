@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ekyna-learn/sf-blog
 =======
 
@@ -34,3 +35,7 @@ Créer les routes, contrôleurs, formulaires et templates pour les urls suivante
 | GET/POST __/category-slug/post-slug__ | Détail de l'article, liste des commentaires et formulaire pour ajouter un commentaire. |
     
     
+=======
+# SymfonyBlog
+Blog simple avec symfony
+>>>>>>> da86177bdd137db4f07616912b3a97b38640aa2d
